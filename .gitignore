@@ -1,0 +1,7 @@
+__pycache__
+.history
+.hypothesis/
+build/
+reports/
+.env
+venv_3_10/
